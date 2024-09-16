@@ -1,0 +1,5 @@
+Worked alone.
+[1] "python - How do I split a string into a list of characters? - Stack Overflow", Stackoverflow, Available: https://stackoverflow.com/questions/4978787/how-do-i-split-a-string-into-a-list-of-characters. [Accessed 11 September. 2024].
+[2] I. Abba, "Append a String in Python – STR Appending", Freecodecamp, 18 Oct. 2022. Available: https://freecodecamp.org/news/append-a-string-in-python-str-appending/. [Accessed 11 September. 2024]. 
+[3] E. Furey, "Roman Numeral Converter", Calculatorsoup, 14 Aug. 2023. Available: https://calculatorsoup.com/calculators/conversions/roman-numeral-converter.php. [Accessed 11 September. 2024].
+[4] "Rules of Roman Numeration |Roman Number System|Roman Numeration System", Math-only-math, Available: https://math-only-math.com/roman-numeration.html. [Accessed 11 September. 2024].
